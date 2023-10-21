@@ -23,6 +23,8 @@ class MyApp extends StatelessWidget {
               children: [
                 TweetTile(),
                 TweetTile(),
+
+                TweetTile(),
                 TweetTile(),
                 TweetTile(),
                 TweetTile(),
